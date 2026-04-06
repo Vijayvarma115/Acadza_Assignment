@@ -1,0 +1,199 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Reddy",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 7,
+  "overall_avg_pct": 49.1,
+  "performance_trend": "stable",
+  "trend_delta": 0.3,
+  "completion_rate": 1.0,
+  "abort_rate": 0.0,
+  "avg_skip_rate": 0.17,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 80.2,
+    "Chemistry": 7.7
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "p_known_now": 0.6739,
+      "stability_days": 4.4,
+      "days_since_review": 22,
+      "retrievability_now": 0.0071,
+      "p_known_at_exam": 0.001,
+      "exam_risk_score": 0.999,
+      "decay_rate_per_day": 0.0016,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 77.0,
+      "attempts": 1,
+      "topic_key": "rotational_mechanics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.739,
+          "p_known_after": 0.674
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1076,
+      "stability_days": 12.6,
+      "days_since_review": 15,
+      "retrievability_now": 0.3029,
+      "p_known_at_exam": 0.0187,
+      "exam_risk_score": 0.9813,
+      "decay_rate_per_day": 0.0241,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 7.67,
+      "attempts": 3,
+      "topic_key": "organic_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.026,
+          "p_known_after": 0.146
+        },
+        {
+          "p_correct_observed": 0.058,
+          "p_known_after": 0.113
+        },
+        {
+          "p_correct_observed": 0.06,
+          "p_known_after": 0.108
+        }
+      ]
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1076,
+      "stability_days": 12.6,
+      "days_since_review": 15,
+      "retrievability_now": 0.3029,
+      "p_known_at_exam": 0.0187,
+      "exam_risk_score": 0.9813,
+      "decay_rate_per_day": 0.0241,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 7.67,
+      "attempts": 3,
+      "topic_key": "physical_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.026,
+          "p_known_after": 0.146
+        },
+        {
+          "p_correct_observed": 0.058,
+          "p_known_after": 0.113
+        },
+        {
+          "p_correct_observed": 0.06,
+          "p_known_after": 0.108
+        }
+      ]
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "p_known_now": 0.906,
+      "stability_days": 10.1,
+      "days_since_review": 22,
+      "retrievability_now": 0.1139,
+      "p_known_at_exam": 0.0517,
+      "exam_risk_score": 0.9483,
+      "decay_rate_per_day": 0.0112,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 81.5,
+      "attempts": 2,
+      "topic_key": "heat_transfer",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.86,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.739,
+          "p_known_after": 0.906
+        }
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "p_known_now": 0.906,
+      "stability_days": 9.9,
+      "days_since_review": 8,
+      "retrievability_now": 0.4469,
+      "p_known_at_exam": 0.2001,
+      "exam_risk_score": 0.7999,
+      "decay_rate_per_day": 0.045,
+      "days_to_exam": 7,
+      "urgency": "HIGH",
+      "avg_pct": 79.0,
+      "attempts": 2,
+      "topic_key": "electrostatics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.739,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.81,
+          "p_known_after": 0.906
+        }
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "p_known_now": 0.9781,
+      "stability_days": 22.2,
+      "days_since_review": 8,
+      "retrievability_now": 0.698,
+      "p_known_at_exam": 0.4984,
+      "exam_risk_score": 0.5016,
+      "decay_rate_per_day": 0.0314,
+      "days_to_exam": 7,
+      "urgency": "MEDIUM",
+      "avg_pct": 81.33,
+      "attempts": 3,
+      "topic_key": "kinematics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.86,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.739,
+          "p_known_after": 0.906
+        },
+        {
+          "p_correct_observed": 0.81,
+          "p_known_after": 0.978
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Rotational Mechanics",
+    "Organic Chemistry",
+    "Physical Chemistry",
+    "Heat Transfer"
+  ],
+  "high_risk_chapters": [
+    "Electrostatics"
+  ],
+  "medium_chapters": [
+    "Kinematics"
+  ],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 13.1
+}

@@ -1,0 +1,286 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Reddy",
+  "exam_pattern": "Mains",
+  "days_to_exam": 7,
+  "total_steps": 14,
+  "priority_chapters": [
+    "Rotational Mechanics",
+    "Organic Chemistry",
+    "Physical Chemistry"
+  ],
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "revision",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Rotational Mechanics: P(known) is good (\u22650.55) but 22 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Rotational Mechanics. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069",
+        "Q_PHY_0061",
+        "Q_PHY_0062",
+        "Q_PHY_0023",
+        "Q_PHY_0082",
+        "Q_PHY_0043"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Rotational Mechanics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Rotational Mechanics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 3,
+      "dost_type": "formula",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Organic Chemistry has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Organic Chemistry before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Organic Chemistry after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Organic Chemistry problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 5,
+      "dost_type": "clickingPower",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Organic Chemistry.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Organic Chemistry, go!"
+    },
+    {
+      "step": 6,
+      "dost_type": "formula",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Physical Chemistry has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Physical Chemistry before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 7,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0047",
+        "Q_CHE_0020",
+        "Q_CHE_0033",
+        "Q_CHE_0001",
+        "Q_CHE_0006",
+        "Q_CHE_0013",
+        "Q_CHE_0034",
+        "Q_CHE_0032"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Physical Chemistry after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Physical Chemistry problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 8,
+      "dost_type": "clickingPower",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0047",
+        "Q_CHE_0020",
+        "Q_CHE_0033",
+        "Q_CHE_0001",
+        "Q_CHE_0006",
+        "Q_CHE_0013",
+        "Q_CHE_0034",
+        "Q_CHE_0032"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Physical Chemistry.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Physical Chemistry, go!"
+    },
+    {
+      "step": 9,
+      "dost_type": "revision",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Heat Transfer: P(known) is good (\u22650.55) but 22 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Heat Transfer. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 10,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0033",
+        "Q_PHY_0013",
+        "Q_PHY_0063"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Heat Transfer to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Heat Transfer revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 11,
+      "dost_type": "revision",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "alloted_days": 2,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Electrostatics: P(known) is good (\u22650.55) but 8 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Electrostatics. A 2-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 12,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0041",
+        "Q_PHY_0081",
+        "Q_PHY_0098",
+        "Q_PHY_0079",
+        "Q_PHY_0073"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Electrostatics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Electrostatics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 13,
+      "dost_type": "speedRace",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "rank": 50,
+        "opponent_type": "bot"
+      },
+      "question_ids": [],
+      "diagnosis": "EXAM_PRESSURE",
+      "reasoning": "Kinematics is well-consolidated. Exam-condition simulation pushes the student to perform under competition pressure.",
+      "student_message": "You're solid on Kinematics \u2014 now prove it in a race. Beat the bot!"
+    },
+    {
+      "step": 14,
+      "dost_type": "practiceTest",
+      "target_chapter": "Rotational Mechanics, Organic Chemistry, Physical Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "Mains"
+      },
+      "question_ids": [
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069",
+        "Q_PHY_0061",
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0040",
+        "Q_CHE_0043",
+        "Q_CHE_0034",
+        "Q_CHE_0011",
+        "Q_CHE_0053",
+        "Q_CHE_0021"
+      ],
+      "diagnosis": "EXAM_SIMULATION",
+      "reasoning": "Final exam simulation across the highest-risk chapters to validate all previous DOST work under timed conditions.",
+      "student_message": "Final exam simulation. Chapters: Rotational Mechanics, Organic Chemistry, Physical Chemistry. 60 minutes. Treat it like the real thing \u2014 no breaks, no notes."
+    }
+  ]
+}

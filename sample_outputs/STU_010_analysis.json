@@ -1,0 +1,274 @@
+{
+  "student_id": "STU_010",
+  "name": "Neha Joshi",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 7,
+  "overall_avg_pct": 78.0,
+  "performance_trend": "stable",
+  "trend_delta": -1.4,
+  "completion_rate": 1.0,
+  "abort_rate": 0.0,
+  "avg_skip_rate": 0.0,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 75.6,
+    "Chemistry": 80.8,
+    "Mathematics": 78.8
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "p_known_now": 0.6647,
+      "stability_days": 5.9,
+      "days_since_review": 51,
+      "retrievability_now": 0.0002,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.83,
+      "attempts": 1,
+      "topic_key": "chemical_bonding",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.665
+        }
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "subject": "Mathematics",
+      "p_known_now": 0.7562,
+      "stability_days": 5.1,
+      "days_since_review": 43,
+      "retrievability_now": 0.0002,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 76.67,
+      "attempts": 1,
+      "topic_key": "probability",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.767,
+          "p_known_after": 0.756
+        }
+      ]
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "p_known_now": 0.6739,
+      "stability_days": 4.0,
+      "days_since_review": 36,
+      "retrievability_now": 0.0001,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 65.0,
+      "attempts": 1,
+      "topic_key": "rotational_mechanics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.65,
+          "p_known_after": 0.674
+        }
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "p_known_now": 0.6739,
+      "stability_days": 4.0,
+      "days_since_review": 36,
+      "retrievability_now": 0.0001,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 65.0,
+      "attempts": 1,
+      "topic_key": "electrostatics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.65,
+          "p_known_after": 0.674
+        }
+      ]
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.6647,
+      "stability_days": 5.9,
+      "days_since_review": 28,
+      "retrievability_now": 0.0086,
+      "p_known_at_exam": 0.0017,
+      "exam_risk_score": 0.9983,
+      "decay_rate_per_day": 0.0015,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.83,
+      "attempts": 1,
+      "topic_key": "physical_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.665
+        }
+      ]
+    },
+    {
+      "chapter": "Calculus",
+      "subject": "Mathematics",
+      "p_known_now": 0.7563,
+      "stability_days": 5.2,
+      "days_since_review": 13,
+      "retrievability_now": 0.0834,
+      "p_known_at_exam": 0.0166,
+      "exam_risk_score": 0.9834,
+      "decay_rate_per_day": 0.0159,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.83,
+      "attempts": 1,
+      "topic_key": "calculus",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.756
+        }
+      ]
+    },
+    {
+      "chapter": "Optics",
+      "subject": "Physics",
+      "p_known_now": 0.906,
+      "stability_days": 10.1,
+      "days_since_review": 21,
+      "retrievability_now": 0.1244,
+      "p_known_at_exam": 0.0562,
+      "exam_risk_score": 0.9438,
+      "decay_rate_per_day": 0.0123,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.84,
+      "attempts": 2,
+      "topic_key": "optics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.85,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.767,
+          "p_known_after": 0.906
+        }
+      ]
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "p_known_now": 0.906,
+      "stability_days": 10.1,
+      "days_since_review": 21,
+      "retrievability_now": 0.1244,
+      "p_known_at_exam": 0.0562,
+      "exam_risk_score": 0.9438,
+      "decay_rate_per_day": 0.0123,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.84,
+      "attempts": 2,
+      "topic_key": "heat_transfer",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.85,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.767,
+          "p_known_after": 0.906
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.8981,
+      "stability_days": 13.0,
+      "days_since_review": 28,
+      "retrievability_now": 0.1151,
+      "p_known_at_exam": 0.0602,
+      "exam_risk_score": 0.9398,
+      "decay_rate_per_day": 0.0089,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 80.83,
+      "attempts": 2,
+      "topic_key": "organic_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.665
+        },
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.898
+        }
+      ]
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "subject": "Mathematics",
+      "p_known_now": 0.9455,
+      "stability_days": 11.3,
+      "days_since_review": 13,
+      "retrievability_now": 0.3175,
+      "p_known_at_exam": 0.1618,
+      "exam_risk_score": 0.8382,
+      "decay_rate_per_day": 0.028,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 78.75,
+      "attempts": 2,
+      "topic_key": "coordinate_geometry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.767,
+          "p_known_after": 0.756
+        },
+        {
+          "p_correct_observed": 0.808,
+          "p_known_after": 0.945
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Chemical Bonding",
+    "Probability",
+    "Rotational Mechanics",
+    "Electrostatics",
+    "Physical Chemistry",
+    "Calculus",
+    "Optics",
+    "Heat Transfer",
+    "Organic Chemistry",
+    "Coordinate Geometry"
+  ],
+  "high_risk_chapters": [],
+  "medium_chapters": [],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 3.5
+}

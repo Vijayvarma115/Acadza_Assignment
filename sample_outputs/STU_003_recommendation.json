@@ -1,0 +1,715 @@
+{
+  "student_id": "STU_003",
+  "name": "Rohan Gupta",
+  "exam_pattern": "Mains",
+  "days_to_exam": 7,
+  "total_steps": 41,
+  "priority_chapters": [
+    "Rotational Mechanics",
+    "Coordinate Geometry",
+    "Algebra"
+  ],
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Rotational Mechanics. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Rotational Mechanics. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Rotational Mechanics need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Rotational Mechanics. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0014",
+        "Q_PHY_0087",
+        "Q_PHY_0046",
+        "Q_PHY_0045",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Rotational Mechanics problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Rotational Mechanics. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0014",
+        "Q_PHY_0087",
+        "Q_PHY_0046",
+        "Q_PHY_0045",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Rotational Mechanics recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Rotational Mechanics. Build the reflex."
+    },
+    {
+      "step": 5,
+      "dost_type": "concept",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Coordinate Geometry. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Coordinate Geometry. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 6,
+      "dost_type": "formula",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Coordinate Geometry need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Coordinate Geometry. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 7,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0027",
+        "Q_MAT_0014",
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0021",
+        "Q_MAT_0018"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Coordinate Geometry problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Coordinate Geometry. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 8,
+      "dost_type": "clickingPower",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0027",
+        "Q_MAT_0014",
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0021",
+        "Q_MAT_0018"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Coordinate Geometry recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Coordinate Geometry. Build the reflex."
+    },
+    {
+      "step": 9,
+      "dost_type": "concept",
+      "target_chapter": "Algebra",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Algebra. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Algebra. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 10,
+      "dost_type": "formula",
+      "target_chapter": "Algebra",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Algebra need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Algebra. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 11,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Algebra problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Algebra. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 12,
+      "dost_type": "clickingPower",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Algebra recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Algebra. Build the reflex."
+    },
+    {
+      "step": 13,
+      "dost_type": "concept",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Organic Chemistry. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Organic Chemistry. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 14,
+      "dost_type": "formula",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Organic Chemistry need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Organic Chemistry. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 15,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Organic Chemistry problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Organic Chemistry. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 16,
+      "dost_type": "clickingPower",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Organic Chemistry recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Organic Chemistry. Build the reflex."
+    },
+    {
+      "step": 17,
+      "dost_type": "concept",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Chemical Bonding. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Chemical Bonding. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 18,
+      "dost_type": "formula",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Chemical Bonding need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Chemical Bonding. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 19,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0059",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0030",
+        "Q_CHE_0029",
+        "Q_CHE_0050",
+        "Q_CHE_0005",
+        "Q_CHE_0055"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Chemical Bonding problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Chemical Bonding. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 20,
+      "dost_type": "clickingPower",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0059",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0030",
+        "Q_CHE_0029",
+        "Q_CHE_0050",
+        "Q_CHE_0005",
+        "Q_CHE_0055"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Chemical Bonding recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Chemical Bonding. Build the reflex."
+    },
+    {
+      "step": 21,
+      "dost_type": "concept",
+      "target_chapter": "Calculus",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Calculus. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Calculus. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 22,
+      "dost_type": "formula",
+      "target_chapter": "Calculus",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Calculus need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Calculus. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 23,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0038",
+        "Q_MAT_0008",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Calculus problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Calculus. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 24,
+      "dost_type": "clickingPower",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0038",
+        "Q_MAT_0008",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Calculus recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Calculus. Build the reflex."
+    },
+    {
+      "step": 25,
+      "dost_type": "concept",
+      "target_chapter": "Probability",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Probability. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Probability. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 26,
+      "dost_type": "formula",
+      "target_chapter": "Probability",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Probability need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Probability. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 27,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Probability",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024",
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Probability problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Probability. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 28,
+      "dost_type": "clickingPower",
+      "target_chapter": "Probability",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024",
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Probability recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Probability. Build the reflex."
+    },
+    {
+      "step": 29,
+      "dost_type": "formula",
+      "target_chapter": "Kinematics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Kinematics has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Kinematics before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 30,
+      "dost_type": "pickingPower",
+      "target_chapter": "Kinematics",
+      "parameters": {},
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034",
+        "Q_PHY_0077",
+        "Q_PHY_0068"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "High skip rate (34%) detected. MCQ elimination practice builds confidence to attempt instead of skip.",
+      "student_message": "Stop skipping Kinematics questions! Learn to eliminate wrong options \u2014 even a 50/50 guess beats a skip."
+    },
+    {
+      "step": 31,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Kinematics after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Kinematics problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 32,
+      "dost_type": "clickingPower",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Kinematics.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Kinematics, go!"
+    },
+    {
+      "step": 33,
+      "dost_type": "concept",
+      "target_chapter": "Optics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Optics. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Optics. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 34,
+      "dost_type": "formula",
+      "target_chapter": "Optics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Optics need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Optics. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 35,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Optics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0028",
+        "Q_PHY_0030",
+        "Q_PHY_0050",
+        "Q_PHY_0039",
+        "Q_PHY_0065",
+        "Q_PHY_0044",
+        "Q_PHY_0012",
+        "Q_PHY_0057"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Optics problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Optics. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 36,
+      "dost_type": "clickingPower",
+      "target_chapter": "Optics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0028",
+        "Q_PHY_0030",
+        "Q_PHY_0050",
+        "Q_PHY_0039",
+        "Q_PHY_0065",
+        "Q_PHY_0044",
+        "Q_PHY_0012",
+        "Q_PHY_0057"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Optics recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Optics. Build the reflex."
+    },
+    {
+      "step": 37,
+      "dost_type": "formula",
+      "target_chapter": "Electrostatics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Electrostatics has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Electrostatics before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 38,
+      "dost_type": "pickingPower",
+      "target_chapter": "Electrostatics",
+      "parameters": {},
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0041",
+        "Q_PHY_0081",
+        "Q_PHY_0098",
+        "Q_PHY_0079",
+        "Q_PHY_0073"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "High skip rate (34%) detected. MCQ elimination practice builds confidence to attempt instead of skip.",
+      "student_message": "Stop skipping Electrostatics questions! Learn to eliminate wrong options \u2014 even a 50/50 guess beats a skip."
+    },
+    {
+      "step": 39,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0059",
+        "Q_PHY_0090",
+        "Q_PHY_0005",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0084",
+        "Q_PHY_0041"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Electrostatics after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Electrostatics problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 40,
+      "dost_type": "clickingPower",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0059",
+        "Q_PHY_0090",
+        "Q_PHY_0005",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0084",
+        "Q_PHY_0041"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Electrostatics.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Electrostatics, go!"
+    },
+    {
+      "step": 41,
+      "dost_type": "practiceTest",
+      "target_chapter": "Rotational Mechanics, Coordinate Geometry, Algebra",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "Mains"
+      },
+      "question_ids": [
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069",
+        "Q_PHY_0061",
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032"
+      ],
+      "diagnosis": "EXAM_SIMULATION",
+      "reasoning": "Final exam simulation across the highest-risk chapters to validate all previous DOST work under timed conditions.",
+      "student_message": "Final exam simulation. Chapters: Rotational Mechanics, Coordinate Geometry, Algebra. 60 minutes. Treat it like the real thing \u2014 no breaks, no notes."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "student_id": "STU_009",
+  "name": "Amit Verma",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 6,
+  "overall_avg_pct": 41.0,
+  "performance_trend": "stable",
+  "trend_delta": -2.0,
+  "completion_rate": 1.0,
+  "abort_rate": 0.0,
+  "avg_skip_rate": 0.03,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 41.7,
+    "Mathematics": 43.0,
+    "Chemistry": 35.0
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Optics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.1,
+      "days_since_review": 57,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 40.0,
+      "attempts": 1,
+      "topic_key": "optics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.384,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "subject": "Mathematics",
+      "p_known_now": 0.1555,
+      "stability_days": 3.6,
+      "days_since_review": 49,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 41.0,
+      "attempts": 1,
+      "topic_key": "probability",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.394,
+          "p_known_after": 0.155
+        }
+      ]
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.3,
+      "days_since_review": 40,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 45.0,
+      "attempts": 1,
+      "topic_key": "rotational_mechanics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.432,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 3.8,
+      "days_since_review": 34,
+      "retrievability_now": 0.0001,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 35.0,
+      "attempts": 1,
+      "topic_key": "physical_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.336,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 3.8,
+      "days_since_review": 34,
+      "retrievability_now": 0.0001,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 35.0,
+      "attempts": 1,
+      "topic_key": "organic_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.336,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Algebra",
+      "subject": "Mathematics",
+      "p_known_now": 0.1555,
+      "stability_days": 3.8,
+      "days_since_review": 25,
+      "retrievability_now": 0.0014,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0004,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 45.0,
+      "attempts": 1,
+      "topic_key": "algebra",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.45,
+          "p_known_after": 0.155
+        }
+      ]
+    },
+    {
+      "chapter": "Calculus",
+      "subject": "Mathematics",
+      "p_known_now": 0.1198,
+      "stability_days": 8.2,
+      "days_since_review": 25,
+      "retrievability_now": 0.0471,
+      "p_known_at_exam": 0.0024,
+      "exam_risk_score": 0.9976,
+      "decay_rate_per_day": 0.0058,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 43.0,
+      "attempts": 2,
+      "topic_key": "calculus",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.394,
+          "p_known_after": 0.155
+        },
+        {
+          "p_correct_observed": 0.45,
+          "p_known_after": 0.12
+        }
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "p_known_now": 0.1091,
+      "stability_days": 6.9,
+      "days_since_review": 17,
+      "retrievability_now": 0.086,
+      "p_known_at_exam": 0.0034,
+      "exam_risk_score": 0.9966,
+      "decay_rate_per_day": 0.0124,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 40.0,
+      "attempts": 2,
+      "topic_key": "kinematics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.384,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.4,
+          "p_known_after": 0.109
+        }
+      ]
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "p_known_now": 0.1091,
+      "stability_days": 7.1,
+      "days_since_review": 17,
+      "retrievability_now": 0.0919,
+      "p_known_at_exam": 0.0038,
+      "exam_risk_score": 0.9962,
+      "decay_rate_per_day": 0.0129,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 42.5,
+      "attempts": 2,
+      "topic_key": "heat_transfer",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.432,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.4,
+          "p_known_after": 0.109
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Optics",
+    "Probability",
+    "Rotational Mechanics",
+    "Physical Chemistry",
+    "Organic Chemistry",
+    "Algebra",
+    "Calculus",
+    "Kinematics",
+    "Heat Transfer"
+  ],
+  "high_risk_chapters": [],
+  "medium_chapters": [],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 0.1
+}

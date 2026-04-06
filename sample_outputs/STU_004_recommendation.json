@@ -1,0 +1,700 @@
+{
+  "student_id": "STU_004",
+  "name": "Meera Iyer",
+  "exam_pattern": "Mains",
+  "days_to_exam": 7,
+  "total_steps": 34,
+  "priority_chapters": [
+    "Algebra",
+    "Thermodynamics",
+    "Kinematics"
+  ],
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Algebra",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Algebra. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Algebra. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Algebra",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Algebra need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Algebra. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Algebra problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Algebra. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Algebra recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Algebra. Build the reflex."
+    },
+    {
+      "step": 5,
+      "dost_type": "concept",
+      "target_chapter": "Thermodynamics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Thermodynamics. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Thermodynamics. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 6,
+      "dost_type": "formula",
+      "target_chapter": "Thermodynamics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Thermodynamics need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Thermodynamics. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 7,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Thermodynamics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0021",
+        "Q_PHY_0080",
+        "Q_PHY_0022",
+        "Q_PHY_0100",
+        "Q_PHY_0003",
+        "Q_PHY_0070",
+        "Q_PHY_0054",
+        "Q_PHY_0099"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Thermodynamics problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Thermodynamics. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 8,
+      "dost_type": "clickingPower",
+      "target_chapter": "Thermodynamics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0021",
+        "Q_PHY_0080",
+        "Q_PHY_0022",
+        "Q_PHY_0100",
+        "Q_PHY_0003",
+        "Q_PHY_0070",
+        "Q_PHY_0054",
+        "Q_PHY_0099"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Thermodynamics recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Thermodynamics. Build the reflex."
+    },
+    {
+      "step": 9,
+      "dost_type": "concept",
+      "target_chapter": "Kinematics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Kinematics. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Kinematics. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 10,
+      "dost_type": "formula",
+      "target_chapter": "Kinematics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Kinematics need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Kinematics. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 11,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Kinematics problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Kinematics. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 12,
+      "dost_type": "clickingPower",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Kinematics recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Kinematics. Build the reflex."
+    },
+    {
+      "step": 13,
+      "dost_type": "formula",
+      "target_chapter": "Electrostatics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Electrostatics has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Electrostatics before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 14,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0059",
+        "Q_PHY_0090",
+        "Q_PHY_0005",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0084",
+        "Q_PHY_0041"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Electrostatics after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Electrostatics problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 15,
+      "dost_type": "clickingPower",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0059",
+        "Q_PHY_0090",
+        "Q_PHY_0005",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0084",
+        "Q_PHY_0041"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Electrostatics.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Electrostatics, go!"
+    },
+    {
+      "step": 16,
+      "dost_type": "revision",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "alloted_days": 2,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Coordinate Geometry: P(known) is good (\u22650.55) but 19 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Coordinate Geometry. A 2-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 17,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0018",
+        "Q_MAT_0020",
+        "Q_MAT_0005",
+        "Q_MAT_0010"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Coordinate Geometry to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Coordinate Geometry revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 18,
+      "dost_type": "revision",
+      "target_chapter": "Optics",
+      "parameters": {
+        "alloted_days": 2,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Optics: P(known) is good (\u22650.55) but 11 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Optics. A 2-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 19,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Optics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0065",
+        "Q_PHY_0025",
+        "Q_PHY_0032",
+        "Q_PHY_0058",
+        "Q_PHY_0017",
+        "Q_PHY_0078",
+        "Q_PHY_0036",
+        "Q_PHY_0093"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Optics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Optics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 20,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0040",
+        "Q_CHE_0043",
+        "Q_CHE_0035",
+        "Q_CHE_0054",
+        "Q_CHE_0044",
+        "Q_CHE_0031"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Organic Chemistry: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Organic Chemistry \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 21,
+      "dost_type": "clickingPower",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0040",
+        "Q_CHE_0043",
+        "Q_CHE_0035",
+        "Q_CHE_0054",
+        "Q_CHE_0044",
+        "Q_CHE_0031"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Organic Chemistry. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Organic Chemistry reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 22,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0034",
+        "Q_CHE_0011",
+        "Q_CHE_0053",
+        "Q_CHE_0021",
+        "Q_CHE_0042",
+        "Q_CHE_0022",
+        "Q_CHE_0009",
+        "Q_CHE_0014"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Physical Chemistry: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Physical Chemistry \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 23,
+      "dost_type": "clickingPower",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0034",
+        "Q_CHE_0011",
+        "Q_CHE_0053",
+        "Q_CHE_0021",
+        "Q_CHE_0042",
+        "Q_CHE_0022",
+        "Q_CHE_0009",
+        "Q_CHE_0014"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Physical Chemistry. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Physical Chemistry reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 24,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0025",
+        "Q_CHE_0016",
+        "Q_CHE_0012",
+        "Q_CHE_0037",
+        "Q_CHE_0051",
+        "Q_CHE_0007",
+        "Q_CHE_0010",
+        "Q_CHE_0002"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Chemical Bonding: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Chemical Bonding \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 25,
+      "dost_type": "clickingPower",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0025",
+        "Q_CHE_0016",
+        "Q_CHE_0012",
+        "Q_CHE_0037",
+        "Q_CHE_0051",
+        "Q_CHE_0007",
+        "Q_CHE_0010",
+        "Q_CHE_0002"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Chemical Bonding. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Chemical Bonding reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 26,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Probability",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016",
+        "Q_MAT_0040",
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Probability: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Probability \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 27,
+      "dost_type": "clickingPower",
+      "target_chapter": "Probability",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016",
+        "Q_MAT_0040",
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Probability. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Probability reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 28,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0008",
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Calculus: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Calculus \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 29,
+      "dost_type": "clickingPower",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0008",
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Calculus. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Calculus reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 30,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0033",
+        "Q_PHY_0013",
+        "Q_PHY_0063"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Heat Transfer: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Heat Transfer \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 31,
+      "dost_type": "clickingPower",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0033",
+        "Q_PHY_0013",
+        "Q_PHY_0063"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Heat Transfer. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Heat Transfer reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 32,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Laws of Motion",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 6,
+          "mcq": 2,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0031",
+        "Q_PHY_0092",
+        "Q_PHY_0049",
+        "Q_PHY_0085",
+        "Q_PHY_0019",
+        "Q_PHY_0088",
+        "Q_PHY_0011",
+        "Q_PHY_0086"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Laws of Motion: partial knowledge exists (P(known)~0.35\u20130.55) but encoding is weak (stability < 5 days). Medium-difficulty practice consolidates the encoding.",
+      "student_message": "You know some of Laws of Motion \u2014 let's solidify it. These medium-level problems will cement your understanding."
+    },
+    {
+      "step": 33,
+      "dost_type": "clickingPower",
+      "target_chapter": "Laws of Motion",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0031",
+        "Q_PHY_0092",
+        "Q_PHY_0049",
+        "Q_PHY_0085",
+        "Q_PHY_0019",
+        "Q_PHY_0088",
+        "Q_PHY_0011",
+        "Q_PHY_0086"
+      ],
+      "diagnosis": "LEARNED_UNSTABLE",
+      "reasoning": "Speed drill after consolidation practice for Laws of Motion. Improves retrieval speed which directly increases stability.",
+      "student_message": "Sharpen your Laws of Motion reflexes \u2014 speed and recall go together."
+    },
+    {
+      "step": 34,
+      "dost_type": "practiceTest",
+      "target_chapter": "Algebra, Thermodynamics, Kinematics",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "Mains"
+      },
+      "question_ids": [
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_PHY_0022",
+        "Q_PHY_0003",
+        "Q_PHY_0070",
+        "Q_PHY_0054",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008"
+      ],
+      "diagnosis": "EXAM_SIMULATION",
+      "reasoning": "Final exam simulation across the highest-risk chapters to validate all previous DOST work under timed conditions.",
+      "student_message": "Final exam simulation. Chapters: Algebra, Thermodynamics, Kinematics. 60 minutes. Treat it like the real thing \u2014 no breaks, no notes."
+    }
+  ]
+}

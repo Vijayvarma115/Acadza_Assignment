@@ -1,0 +1,439 @@
+{
+  "student_id": "STU_010",
+  "name": "Neha Joshi",
+  "exam_pattern": "Mains",
+  "days_to_exam": 7,
+  "total_steps": 21,
+  "priority_chapters": [
+    "Chemical Bonding",
+    "Probability",
+    "Rotational Mechanics"
+  ],
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "revision",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Chemical Bonding: P(known) is good (\u22650.55) but 51 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Chemical Bonding. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0025",
+        "Q_CHE_0016",
+        "Q_CHE_0012",
+        "Q_CHE_0037",
+        "Q_CHE_0051",
+        "Q_CHE_0007",
+        "Q_CHE_0010",
+        "Q_CHE_0002"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Chemical Bonding to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Chemical Bonding revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 3,
+      "dost_type": "revision",
+      "target_chapter": "Probability",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Probability: P(known) is good (\u22650.55) but 43 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Probability. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Probability",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016",
+        "Q_MAT_0040",
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Probability to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Probability revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 5,
+      "dost_type": "revision",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Rotational Mechanics: P(known) is good (\u22650.55) but 36 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Rotational Mechanics. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069",
+        "Q_PHY_0061",
+        "Q_PHY_0062",
+        "Q_PHY_0023",
+        "Q_PHY_0082",
+        "Q_PHY_0043"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Rotational Mechanics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Rotational Mechanics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 7,
+      "dost_type": "revision",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Electrostatics: P(known) is good (\u22650.55) but 36 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Electrostatics. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 8,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0041",
+        "Q_PHY_0081",
+        "Q_PHY_0098",
+        "Q_PHY_0079",
+        "Q_PHY_0073"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Electrostatics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Electrostatics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 9,
+      "dost_type": "revision",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Physical Chemistry: P(known) is good (\u22650.55) but 28 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Physical Chemistry. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 10,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Physical Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0034",
+        "Q_CHE_0011",
+        "Q_CHE_0053",
+        "Q_CHE_0021",
+        "Q_CHE_0042",
+        "Q_CHE_0022",
+        "Q_CHE_0009",
+        "Q_CHE_0014"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Physical Chemistry to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Physical Chemistry revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 11,
+      "dost_type": "revision",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "alloted_days": 2,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Calculus: P(known) is good (\u22650.55) but 13 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Calculus. A 2-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 12,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0008",
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Calculus to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Calculus revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 13,
+      "dost_type": "revision",
+      "target_chapter": "Optics",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Optics: P(known) is good (\u22650.55) but 21 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Optics. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 14,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Optics",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0065",
+        "Q_PHY_0025",
+        "Q_PHY_0032",
+        "Q_PHY_0058",
+        "Q_PHY_0017",
+        "Q_PHY_0078",
+        "Q_PHY_0036",
+        "Q_PHY_0093"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Optics to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Optics revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 15,
+      "dost_type": "revision",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Heat Transfer: P(known) is good (\u22650.55) but 21 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Heat Transfer. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 16,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0033",
+        "Q_PHY_0013",
+        "Q_PHY_0063"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Heat Transfer to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Heat Transfer revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 17,
+      "dost_type": "revision",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Organic Chemistry: P(known) is good (\u22650.55) but 28 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Organic Chemistry. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 18,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0040",
+        "Q_CHE_0043",
+        "Q_CHE_0035",
+        "Q_CHE_0054",
+        "Q_CHE_0044",
+        "Q_CHE_0031"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Organic Chemistry to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Organic Chemistry revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 19,
+      "dost_type": "revision",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "alloted_days": 2,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Coordinate Geometry: P(known) is good (\u22650.55) but 13 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Coordinate Geometry. A 2-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 20,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Coordinate Geometry",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0018",
+        "Q_MAT_0020",
+        "Q_MAT_0005",
+        "Q_MAT_0010"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Coordinate Geometry to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Coordinate Geometry revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 21,
+      "dost_type": "practiceTest",
+      "target_chapter": "Chemical Bonding, Probability, Rotational Mechanics",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "Mains"
+      },
+      "question_ids": [
+        "Q_CHE_0025",
+        "Q_CHE_0016",
+        "Q_CHE_0012",
+        "Q_CHE_0037",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069",
+        "Q_PHY_0061"
+      ],
+      "diagnosis": "EXAM_SIMULATION",
+      "reasoning": "Final exam simulation across the highest-risk chapters to validate all previous DOST work under timed conditions.",
+      "student_message": "Final exam simulation. Chapters: Chemical Bonding, Probability, Rotational Mechanics. 60 minutes. Treat it like the real thing \u2014 no breaks, no notes."
+    }
+  ]
+}

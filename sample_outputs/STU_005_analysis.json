@@ -1,0 +1,228 @@
+{
+  "student_id": "STU_005",
+  "name": "Karan Mehta",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 6,
+  "overall_avg_pct": 30.0,
+  "performance_trend": "declining",
+  "trend_delta": -46.7,
+  "completion_rate": 0.67,
+  "abort_rate": 0.33,
+  "avg_skip_rate": 0.22,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 34.3,
+    "Mathematics": 31.0,
+    "Chemistry": 15.0
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "p_known_now": 0.6739,
+      "stability_days": 4.0,
+      "days_since_review": 59,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 63.0,
+      "attempts": 1,
+      "topic_key": "heat_transfer",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.605,
+          "p_known_after": 0.674
+        }
+      ]
+    },
+    {
+      "chapter": "Calculus",
+      "subject": "Mathematics",
+      "p_known_now": 0.7562,
+      "stability_days": 4.3,
+      "days_since_review": 50,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 58.0,
+      "attempts": 1,
+      "topic_key": "calculus",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.557,
+          "p_known_after": 0.756
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 2.9,
+      "days_since_review": 32,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 15.0,
+      "attempts": 1,
+      "topic_key": "organic_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.138,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 2.9,
+      "days_since_review": 32,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 15.0,
+      "attempts": 1,
+      "topic_key": "chemical_bonding",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.138,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "subject": "Mathematics",
+      "p_known_now": 0.1555,
+      "stability_days": 2.2,
+      "days_since_review": 16,
+      "retrievability_now": 0.0006,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0003,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 4.0,
+      "attempts": 1,
+      "topic_key": "probability",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.015,
+          "p_known_after": 0.155
+        }
+      ]
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "p_known_now": 0.1091,
+      "stability_days": 5.4,
+      "days_since_review": 24,
+      "retrievability_now": 0.0116,
+      "p_known_at_exam": 0.0003,
+      "exam_risk_score": 0.9997,
+      "decay_rate_per_day": 0.0022,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 20.0,
+      "attempts": 2,
+      "topic_key": "rotational_mechanics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.374,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.004,
+          "p_known_after": 0.109
+        }
+      ]
+    },
+    {
+      "chapter": "Algebra",
+      "subject": "Mathematics",
+      "p_known_now": 0.3471,
+      "stability_days": 7.1,
+      "days_since_review": 16,
+      "retrievability_now": 0.106,
+      "p_known_at_exam": 0.0138,
+      "exam_risk_score": 0.9862,
+      "decay_rate_per_day": 0.0149,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 31.0,
+      "attempts": 2,
+      "topic_key": "algebra",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.557,
+          "p_known_after": 0.756
+        },
+        {
+          "p_correct_observed": 0.015,
+          "p_known_after": 0.347
+        }
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "p_known_now": 0.16,
+      "stability_days": 14.3,
+      "days_since_review": 24,
+      "retrievability_now": 0.1864,
+      "p_known_at_exam": 0.0183,
+      "exam_risk_score": 0.9817,
+      "decay_rate_per_day": 0.013,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 34.33,
+      "attempts": 3,
+      "topic_key": "kinematics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.605,
+          "p_known_after": 0.674
+        },
+        {
+          "p_correct_observed": 0.374,
+          "p_known_after": 0.337
+        },
+        {
+          "p_correct_observed": 0.004,
+          "p_known_after": 0.16
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Heat Transfer",
+    "Calculus",
+    "Organic Chemistry",
+    "Chemical Bonding",
+    "Probability",
+    "Rotational Mechanics",
+    "Algebra",
+    "Kinematics"
+  ],
+  "high_risk_chapters": [],
+  "medium_chapters": [],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 0.4
+}

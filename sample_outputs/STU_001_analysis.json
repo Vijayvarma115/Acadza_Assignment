@@ -1,0 +1,208 @@
+{
+  "student_id": "STU_001",
+  "name": "Arjun Sharma",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 6,
+  "overall_avg_pct": 33.5,
+  "performance_trend": "stable",
+  "trend_delta": 2.2,
+  "completion_rate": 0.67,
+  "abort_rate": 0.33,
+  "avg_skip_rate": 0.23,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 32.1,
+    "Chemistry": 40.8
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Optics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.1,
+      "days_since_review": 47,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 40.0,
+      "attempts": 1,
+      "topic_key": "optics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.352,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 4.1,
+      "days_since_review": 33,
+      "retrievability_now": 0.0003,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0001,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 40.8,
+      "attempts": 1,
+      "topic_key": "organic_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.394,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 4.1,
+      "days_since_review": 33,
+      "retrievability_now": 0.0003,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0001,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 40.8,
+      "attempts": 1,
+      "topic_key": "chemical_bonding",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.394,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Laws of Motion",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.5,
+      "days_since_review": 17,
+      "retrievability_now": 0.0074,
+      "p_known_at_exam": 0.0001,
+      "exam_risk_score": 0.9999,
+      "decay_rate_per_day": 0.0021,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 49.0,
+      "attempts": 1,
+      "topic_key": "laws_of_motion",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.451,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "p_known_now": 0.1091,
+      "stability_days": 7.2,
+      "days_since_review": 17,
+      "retrievability_now": 0.0955,
+      "p_known_at_exam": 0.004,
+      "exam_risk_score": 0.996,
+      "decay_rate_per_day": 0.0132,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 44.0,
+      "attempts": 2,
+      "topic_key": "electrostatics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.359,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.451,
+          "p_known_after": 0.109
+        }
+      ]
+    },
+    {
+      "chapter": "Thermodynamics",
+      "subject": "Physics",
+      "p_known_now": 0.1007,
+      "stability_days": 12.5,
+      "days_since_review": 25,
+      "retrievability_now": 0.1353,
+      "p_known_at_exam": 0.0078,
+      "exam_risk_score": 0.9922,
+      "decay_rate_per_day": 0.0108,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 23.78,
+      "attempts": 3,
+      "topic_key": "thermodynamics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.359,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.069,
+          "p_known_after": 0.109
+        },
+        {
+          "p_correct_observed": 0.053,
+          "p_known_after": 0.101
+        }
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "p_known_now": 0.1007,
+      "stability_days": 12.6,
+      "days_since_review": 25,
+      "retrievability_now": 0.1365,
+      "p_known_at_exam": 0.0079,
+      "exam_risk_score": 0.9921,
+      "decay_rate_per_day": 0.0109,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 24.11,
+      "attempts": 3,
+      "topic_key": "kinematics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.352,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.069,
+          "p_known_after": 0.109
+        },
+        {
+          "p_correct_observed": 0.053,
+          "p_known_after": 0.101
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Optics",
+    "Organic Chemistry",
+    "Chemical Bonding",
+    "Laws of Motion",
+    "Electrostatics",
+    "Thermodynamics",
+    "Kinematics"
+  ],
+  "high_risk_chapters": [],
+  "medium_chapters": [],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 0.3
+}

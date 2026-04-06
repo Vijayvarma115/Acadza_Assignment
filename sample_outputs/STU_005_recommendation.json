@@ -1,0 +1,499 @@
+{
+  "student_id": "STU_005",
+  "name": "Karan Mehta",
+  "exam_pattern": "Mains",
+  "days_to_exam": 7,
+  "total_steps": 27,
+  "priority_chapters": [
+    "Heat Transfer",
+    "Calculus",
+    "Organic Chemistry"
+  ],
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "revision",
+      "target_chapter": "Heat Transfer, Calculus, Organic Chemistry",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": 90
+      },
+      "question_ids": [],
+      "diagnosis": "HIGH_ABORT_RATE",
+      "reasoning": "Abort rate 33% detected. Student is quitting tests before completion \u2014 a structured revision plan rebuilds confidence before more test exposure.",
+      "student_message": "You've been stopping tests halfway. Before we add more practice, let's get comfortable with Heat Transfer, Calculus through a structured revision plan. Finish every session."
+    },
+    {
+      "step": 2,
+      "dost_type": "revision",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Heat Transfer: P(known) is good (\u22650.55) but 59 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Heat Transfer. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Heat Transfer",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0033",
+        "Q_PHY_0013",
+        "Q_PHY_0063"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Heat Transfer to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Heat Transfer revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 2,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Calculus: P(known) is good (\u22650.55) but 50 days have passed since last review and retrievability has dropped below 50%. Spaced revision restores stability without re-learning from scratch.",
+      "student_message": "It's been a while since you last touched Calculus. A 3-day revision plan will bring it back \u2014 you haven't lost it, just need a refresh."
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Calculus",
+      "parameters": {
+        "difficulty": "medium",
+        "type_split": {
+          "scq": 5,
+          "mcq": 3,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0008",
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0022",
+        "Q_MAT_0031"
+      ],
+      "diagnosis": "STABLE_DECAYING",
+      "reasoning": "Practice after revision for Calculus to re-anchor the recovered knowledge.",
+      "student_message": "Follow-up practice after your Calculus revision. This locks the refreshed knowledge in."
+    },
+    {
+      "step": 6,
+      "dost_type": "concept",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Organic Chemistry. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Organic Chemistry. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 7,
+      "dost_type": "formula",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Organic Chemistry need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Organic Chemistry. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 8,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Organic Chemistry problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Organic Chemistry. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 9,
+      "dost_type": "clickingPower",
+      "target_chapter": "Organic Chemistry",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0046",
+        "Q_CHE_0058",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_CHE_0049",
+        "Q_CHE_0048"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Organic Chemistry recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Organic Chemistry. Build the reflex."
+    },
+    {
+      "step": 10,
+      "dost_type": "concept",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Chemical Bonding. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Chemical Bonding. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 11,
+      "dost_type": "formula",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Chemical Bonding need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Chemical Bonding. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 12,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0059",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0030",
+        "Q_CHE_0029",
+        "Q_CHE_0050",
+        "Q_CHE_0005",
+        "Q_CHE_0055"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Chemical Bonding problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Chemical Bonding. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 13,
+      "dost_type": "clickingPower",
+      "target_chapter": "Chemical Bonding",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_CHE_0059",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0030",
+        "Q_CHE_0029",
+        "Q_CHE_0050",
+        "Q_CHE_0005",
+        "Q_CHE_0055"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Chemical Bonding recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Chemical Bonding. Build the reflex."
+    },
+    {
+      "step": 14,
+      "dost_type": "concept",
+      "target_chapter": "Probability",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "P(known)\u22480 with very few attempts \u2014 student has barely encountered Probability. No point practicing without conceptual foundation.",
+      "student_message": "Let's start fresh on Probability. Read through the concept module fully \u2014 don't skip anything."
+    },
+    {
+      "step": 15,
+      "dost_type": "formula",
+      "target_chapter": "Probability",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Formulas for Probability need to be locked in before any problem solving.",
+      "student_message": "Memorize the key formulas for Probability. Write them out. You'll thank yourself in the exam."
+    },
+    {
+      "step": 16,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Probability",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 8,
+          "integer": 2
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024",
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "First contact with Probability problems at easy level \u2014 build pattern recognition before difficulty increases.",
+      "student_message": "Your first real practice on Probability. No pressure \u2014 focus on getting the approach right, not the speed."
+    },
+    {
+      "step": 17,
+      "dost_type": "clickingPower",
+      "target_chapter": "Probability",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0029",
+        "Q_MAT_0004",
+        "Q_MAT_0024",
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0026",
+        "Q_MAT_0016"
+      ],
+      "diagnosis": "NEVER_LEARNED",
+      "reasoning": "Reinforce Probability recall speed after initial concept+practice cycle.",
+      "student_message": "Speed round! 10 quick-fire questions on Probability. Build the reflex."
+    },
+    {
+      "step": 18,
+      "dost_type": "formula",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Rotational Mechanics has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Rotational Mechanics before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 19,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0014",
+        "Q_PHY_0087",
+        "Q_PHY_0046",
+        "Q_PHY_0045",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Rotational Mechanics after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Rotational Mechanics problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 20,
+      "dost_type": "clickingPower",
+      "target_chapter": "Rotational Mechanics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0014",
+        "Q_PHY_0087",
+        "Q_PHY_0046",
+        "Q_PHY_0045",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0069"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Rotational Mechanics.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Rotational Mechanics, go!"
+    },
+    {
+      "step": 21,
+      "dost_type": "formula",
+      "target_chapter": "Algebra",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Algebra has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Algebra before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 22,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Algebra after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Algebra problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 23,
+      "dost_type": "clickingPower",
+      "target_chapter": "Algebra",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Algebra.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Algebra, go!"
+    },
+    {
+      "step": 24,
+      "dost_type": "formula",
+      "target_chapter": "Kinematics",
+      "parameters": {},
+      "question_ids": [],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Kinematics has been attempted multiple times with P(known) still below 0.35. Core equations are likely not internalized \u2014 formula revision before more practice.",
+      "student_message": "You've tried Kinematics before but it's not clicking. Let's go back to the formulas \u2014 that's usually where the gap is."
+    },
+    {
+      "step": 25,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 7,
+          "integer": 3
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Untimed practice on Kinematics after formula revision. Accuracy before speed for deeply unknown chapters.",
+      "student_message": "Work through these Kinematics problems carefully. No timer. Every correct step matters."
+    },
+    {
+      "step": 26,
+      "dost_type": "clickingPower",
+      "target_chapter": "Kinematics",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0053",
+        "Q_PHY_0015",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034"
+      ],
+      "diagnosis": "DEEPLY_UNKNOWN",
+      "reasoning": "Speed reinforcement after accuracy is built for Kinematics.",
+      "student_message": "Good work! Now make it fast \u2014 10 questions, Kinematics, go!"
+    },
+    {
+      "step": 27,
+      "dost_type": "practiceTest",
+      "target_chapter": "Heat Transfer, Calculus, Organic Chemistry",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "Mains"
+      },
+      "question_ids": [
+        "Q_PHY_0064",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0026",
+        "Q_MAT_0008",
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0040",
+        "Q_CHE_0043"
+      ],
+      "diagnosis": "EXAM_SIMULATION",
+      "reasoning": "Final exam simulation across the highest-risk chapters to validate all previous DOST work under timed conditions.",
+      "student_message": "Final exam simulation. Chapters: Heat Transfer, Calculus, Organic Chemistry. 60 minutes. Treat it like the real thing \u2014 no breaks, no notes."
+    }
+  ]
+}

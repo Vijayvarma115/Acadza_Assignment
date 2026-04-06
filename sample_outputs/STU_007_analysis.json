@@ -1,0 +1,266 @@
+{
+  "student_id": "STU_007",
+  "name": "Vikram Singh",
+  "stream": "JEE",
+  "class": 12,
+  "total_attempts": 6,
+  "overall_avg_pct": 54.4,
+  "performance_trend": "stable",
+  "trend_delta": -4.4,
+  "completion_rate": 1.0,
+  "abort_rate": 0.0,
+  "avg_skip_rate": 0.22,
+  "test_anxiety": false,
+  "subject_avg": {
+    "Physics": 52.2,
+    "Mathematics": 58.3,
+    "Chemistry": 53.3
+  },
+  "risk_profiles": [
+    {
+      "chapter": "Thermodynamics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.7,
+      "days_since_review": 54,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 56.67,
+      "attempts": 1,
+      "topic_key": "thermodynamics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.434,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "subject": "Mathematics",
+      "p_known_now": 0.1555,
+      "stability_days": 4.4,
+      "days_since_review": 46,
+      "retrievability_now": 0.0,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 60.0,
+      "attempts": 1,
+      "topic_key": "coordinate_geometry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.48,
+          "p_known_after": 0.155
+        }
+      ]
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 4.6,
+      "days_since_review": 38,
+      "retrievability_now": 0.0003,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0001,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 53.33,
+      "attempts": 1,
+      "topic_key": "chemical_bonding",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.391,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "p_known_now": 0.1463,
+      "stability_days": 4.6,
+      "days_since_review": 38,
+      "retrievability_now": 0.0003,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0001,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 53.33,
+      "attempts": 1,
+      "topic_key": "physical_chemistry",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.391,
+          "p_known_after": 0.146
+        }
+      ]
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.6,
+      "days_since_review": 29,
+      "retrievability_now": 0.0003,
+      "p_known_at_exam": 0.0,
+      "exam_risk_score": 1.0,
+      "decay_rate_per_day": 0.0001,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 51.7,
+      "attempts": 1,
+      "topic_key": "heat_transfer",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.431,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Algebra",
+      "subject": "Mathematics",
+      "p_known_now": 0.1555,
+      "stability_days": 4.3,
+      "days_since_review": 20,
+      "retrievability_now": 0.0092,
+      "p_known_at_exam": 0.0003,
+      "exam_risk_score": 0.9997,
+      "decay_rate_per_day": 0.0022,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 56.67,
+      "attempts": 1,
+      "topic_key": "algebra",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.434,
+          "p_known_after": 0.155
+        }
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.4,
+      "days_since_review": 12,
+      "retrievability_now": 0.0306,
+      "p_known_at_exam": 0.0006,
+      "exam_risk_score": 0.9994,
+      "decay_rate_per_day": 0.0089,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 48.33,
+      "attempts": 1,
+      "topic_key": "electrostatics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.371,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "p_known_now": 0.1484,
+      "stability_days": 3.4,
+      "days_since_review": 12,
+      "retrievability_now": 0.0306,
+      "p_known_at_exam": 0.0006,
+      "exam_risk_score": 0.9994,
+      "decay_rate_per_day": 0.0089,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 48.33,
+      "attempts": 1,
+      "topic_key": "rotational_mechanics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.371,
+          "p_known_after": 0.148
+        }
+      ]
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "p_known_now": 0.1091,
+      "stability_days": 8.0,
+      "days_since_review": 29,
+      "retrievability_now": 0.0269,
+      "p_known_at_exam": 0.0012,
+      "exam_risk_score": 0.9988,
+      "decay_rate_per_day": 0.0034,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 54.19,
+      "attempts": 2,
+      "topic_key": "kinematics",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.434,
+          "p_known_after": 0.148
+        },
+        {
+          "p_correct_observed": 0.431,
+          "p_known_after": 0.109
+        }
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "subject": "Mathematics",
+      "p_known_now": 0.1198,
+      "stability_days": 9.5,
+      "days_since_review": 20,
+      "retrievability_now": 0.1227,
+      "p_known_at_exam": 0.0071,
+      "exam_risk_score": 0.9929,
+      "decay_rate_per_day": 0.0129,
+      "days_to_exam": 7,
+      "urgency": "CRITICAL",
+      "avg_pct": 58.34,
+      "attempts": 2,
+      "topic_key": "probability",
+      "bkt_history": [
+        {
+          "p_correct_observed": 0.48,
+          "p_known_after": 0.155
+        },
+        {
+          "p_correct_observed": 0.434,
+          "p_known_after": 0.12
+        }
+      ]
+    }
+  ],
+  "critical_chapters": [
+    "Thermodynamics",
+    "Coordinate Geometry",
+    "Chemical Bonding",
+    "Physical Chemistry",
+    "Heat Transfer",
+    "Algebra",
+    "Electrostatics",
+    "Rotational Mechanics",
+    "Kinematics",
+    "Probability"
+  ],
+  "high_risk_chapters": [],
+  "medium_chapters": [],
+  "safe_chapters": [],
+  "days_to_exam": 7,
+  "exam_readiness_pct": 0.1
+}
